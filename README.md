@@ -38,11 +38,9 @@
    ```bash
    python main.py
    ```
+🤝 Contribuições:
 
-
-
-
-
+Contribuições são bem-vindas! Você pode abrir uma issue ou enviar um pull request para ajudar a melhorar o projeto.
 
 ---
 
